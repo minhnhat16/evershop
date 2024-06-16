@@ -12,7 +12,7 @@ export default function ReviewMenuGroup({ reviewGrid }) {
         {
           Icon: ChatIcon,
           url: reviewGrid,
-          title: 'Reviews'
+          title: 'Reviews1'
         }
       ]}
     />
