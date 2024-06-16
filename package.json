@@ -29,8 +29,6 @@
     "lint": "eslint --fix --ext .js,.jsx .",
     "prepare": "husky install"
   },
-  "author": "The Nguyen (https://evershop.io)",
-  "license": "GNU GENERAL PUBLIC LICENSE 3.0",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.14.8",
