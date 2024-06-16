@@ -1,6 +1,7 @@
 {
   "name": "evershop",
   "version": "1.0.0-beta",
+  "homepage": "https://minhnhat16.github.io/evershop",
   "description": "A shopping cart platform with Express, React and Postgres",
   "files": [
     "bin",
